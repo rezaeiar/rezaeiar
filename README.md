@@ -21,3 +21,5 @@ const aboutMe = () => {
 const myInfo = aboutMe();
 console.log(myInfo.introduce());
 ```
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,figma,firebase,git,github,materialui,postman,react,redux,sass,ts,vercel,vite)](https://github.com/rezaeiar)
