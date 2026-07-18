@@ -7,7 +7,7 @@ Frontend Developer passionate about building fast, accessible, and scalable web 
 <br />
 
 <a href="https://alirezarezaeidev.ir" target="_blank">
-  🌐 Visit my website
+  Visit my website
 </a>
 
 <br />
